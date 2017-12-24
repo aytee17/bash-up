@@ -6,10 +6,10 @@ Move the script to a directory in your ```PATH```
 
 ```sudo mv up.sh /bin```
 
-Then add the following line to ```.bashrc``` in your ```HOME``` directory
+Then add the following line to ```~/.bashrc```
 
 ```. /bin/up.sh```
 
-Finally reload .bashrc
+Finally reload ```.bashrc```
 
 ```. .bashrc```
