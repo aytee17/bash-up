@@ -2,8 +2,12 @@
 Quickly move up directories.
 
 ## Usage
-
-![usage](https://i.imgur.com/GgqZXjC.gif)
+```
+usage: up [levels] 
+  levels: the number of directories to go up
+```
+ 
+<img src="https://i.imgur.com/GgqZXjC.gif" width="500" height="290" />
 
 ## Installation
 Move the script to a directory in your ```PATH``` 
