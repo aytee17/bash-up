@@ -3,7 +3,7 @@ Quickly move up directories.
 
 ## Usage
 
-![usage](https://i.imgur.com/GgqZXjC.gifv)
+![usage](https://i.imgur.com/GgqZXjC.gif)
 
 ## Installation
 Move the script to a directory in your ```PATH``` 
