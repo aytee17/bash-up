@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Include the following line to .bashrc
+# Add the following line to .bashrc
 # . /path/to/up
 
 function up() {
