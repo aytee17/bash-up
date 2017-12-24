@@ -10,6 +10,6 @@ Then add the following line to ```~/.bashrc```
 
 ```. /bin/up.sh```
 
-Finally reload ```.bashrc```
+Reload the file
 
 ```. .bashrc```
