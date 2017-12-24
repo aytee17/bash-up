@@ -1,6 +1,10 @@
 # up
 Quickly move up directories.
 
+## Usage
+
+![usage](https://i.imgur.com/GgqZXjC.gifv)
+
 ## Installation
 Move the script to a directory in your ```PATH``` 
 
