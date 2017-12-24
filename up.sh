@@ -4,6 +4,7 @@
 # . /path/to/up
 
 function up() {
+    re='^[0-9]+$'
     if [ $# -gt 1 ] || (! [[ -z "$1" ]] && ! [[ $1 =~ $re ]])
     then
         printf "usage: up [levels]\n  levels: the number of directories to go up\n"
