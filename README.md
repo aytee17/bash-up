@@ -12,12 +12,12 @@ usage: up [levels]
 ## Installation
 **1.** Move the script to a directory in your ```PATH``` 
 
-    ```sudo mv up.sh /usr/local/bin```
+    sudo mv up.sh /usr/local/bin
 
 **2.** Add the following line to ```~/.bashrc``` 
 
-    ```. /usr/local/bin/up.sh```
+    . /usr/local/bin/up.sh
 
 **3.** Reload the file
 
-    ```. .bashrc```
+    . .bashrc
