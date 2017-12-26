@@ -10,14 +10,11 @@ usage: up [levels]
 <img src="https://i.imgur.com/GgqZXjC.gif" width="600" height="348" />
 
 ## Installation
-**1.** Move the script to a directory in your ```PATH``` 
 
-    sudo mv up.sh /usr/local/bin
+Add the path to the script to ```~/.bashrc``` 
 
-**2.** Add the following line to ```~/.bashrc``` 
+    . /path/to/up.sh
 
-    . /usr/local/bin/up.sh
-
-**3.** Reload the file
+Reload the file
 
     . .bashrc
