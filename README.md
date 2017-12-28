@@ -11,7 +11,7 @@ usage: up [levels]
 
 ## Installation
 
-Add the path to the script to ```~/.bashrc``` 
+Source the script in ```~/.bashrc``` 
 
     . /path/to/up.sh
 
