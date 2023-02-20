@@ -6,8 +6,6 @@ Quickly move up directories.
 usage: up [levels] 
   levels: the number of directories to go up
 ```
- 
-<img src="https://i.imgur.com/GgqZXjC.gif" width="600" height="348" />
 
 ## Installation
 
